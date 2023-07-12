@@ -1,0 +1,1 @@
+alı	75	3*4	1	TRUE	3*4	1	TRUE	5*2	2	TRUE	75
